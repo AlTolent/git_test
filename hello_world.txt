@@ -1,0 +1,3 @@
+Adding some lines of text
+    to further test this editor and also basic
+        git tools
